@@ -51,7 +51,7 @@ GROUP_U_NAME    - Username of the group to tag in sending medias
 
 ### Deploy Easy Way:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/gofilesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/Devansh20055/gofilesbot)
 
 ### Deploy Hard Way: 
 
@@ -87,8 +87,6 @@ python3 main.py
 
 [DAN](https://t.me/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram) Library
 
-[SpEcHiDe](https://github.com/SpEcHiDe) for his [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
-
 ## 💠 Creator :
 
-[Mallu Boy](https://t.me/m4mallu) In Telegram - [AS](https://t.me/space4renjith)
+[PIRO  Boy](https://t.me/All_MOVIES_WEBSERIES_AT1PLACE_op) In Telegram - [AS](https://t.me/team_silent_king)
