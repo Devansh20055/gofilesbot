@@ -41,7 +41,7 @@ class Config(object):
 
 # ------------------------------------------ Optional Variables ------------------------------------------------------ #
     # Username of the group to tag in sending medias
-    GROUP_U_NAME = os.environ.get("GROUP_U_NAME", "@MovieKeralam")
+    GROUP_U_NAME = os.environ.get("GROUP_U_NAME", "@All_MOVIES_WEBSERIES_AT1PLACE_op")
 
 
 def LOGGER(name: str) -> logging.Logger:
